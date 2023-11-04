@@ -37,7 +37,7 @@ function Avatar() {
   return (
     <img
       src="microsoft_account_profile_picture.jfif"
-      alt="photo of Abhijit Kumar"
+      alt="Abhijit Kumar"
       className="avatar"
     />
   )
